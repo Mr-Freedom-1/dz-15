@@ -510,6 +510,8 @@ footer{
 
     .header-nav-useful-tel{
         margin-bottom: 15px;
+        position: relative;
+        top: 15px;
     }
 
     .header-nav-useful-tel a{
@@ -568,7 +570,6 @@ footer{
 
     .header-title-text{
         text-align: left;
-        
     }
       
     .header-title-text h1{
@@ -630,8 +631,9 @@ footer{
     }
 
     .header-title-img{
-        top: -85px;
+        top: -51px;
         right: -50vw;
+        height: 710px;
     }
 
     .header-achievements{
